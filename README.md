@@ -2,7 +2,7 @@
 
 A stacked bar chart which provides a breakdown of percentage of time a device, or devices in a group (in aggregate) were reachable and un-reachable.
 
-![Illustration of the simpleTrends app](simpleTrends_example.png)
+![Illustration of the Device Reachability Distribution per Hour App](screenshot.png)
 
 Based on the NVD3 library.
 
